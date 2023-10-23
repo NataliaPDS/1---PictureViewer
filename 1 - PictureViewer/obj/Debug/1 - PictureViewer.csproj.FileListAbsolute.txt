@@ -1,0 +1,11 @@
+C:\Users\2022102020084\Documents\2B INFORMATICA\Programação\4 Bimestre\1 - PictureViewer\1 - PictureViewer\bin\Debug\1 - PictureViewer.exe.config
+C:\Users\2022102020084\Documents\2B INFORMATICA\Programação\4 Bimestre\1 - PictureViewer\1 - PictureViewer\bin\Debug\1 - PictureViewer.exe
+C:\Users\2022102020084\Documents\2B INFORMATICA\Programação\4 Bimestre\1 - PictureViewer\1 - PictureViewer\bin\Debug\1 - PictureViewer.pdb
+C:\Users\2022102020084\Documents\2B INFORMATICA\Programação\4 Bimestre\1 - PictureViewer\1 - PictureViewer\obj\Debug\1 - PictureViewer.csproj.AssemblyReference.cache
+C:\Users\2022102020084\Documents\2B INFORMATICA\Programação\4 Bimestre\1 - PictureViewer\1 - PictureViewer\obj\Debug\1 - PictureViewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020084\Documents\2B INFORMATICA\Programação\4 Bimestre\1 - PictureViewer\1 - PictureViewer\obj\Debug\_1___PictureViewer.Form1.resources
+C:\Users\2022102020084\Documents\2B INFORMATICA\Programação\4 Bimestre\1 - PictureViewer\1 - PictureViewer\obj\Debug\_1___PictureViewer.Properties.Resources.resources
+C:\Users\2022102020084\Documents\2B INFORMATICA\Programação\4 Bimestre\1 - PictureViewer\1 - PictureViewer\obj\Debug\1 - PictureViewer.csproj.GenerateResource.cache
+C:\Users\2022102020084\Documents\2B INFORMATICA\Programação\4 Bimestre\1 - PictureViewer\1 - PictureViewer\obj\Debug\1 - PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\2022102020084\Documents\2B INFORMATICA\Programação\4 Bimestre\1 - PictureViewer\1 - PictureViewer\obj\Debug\1 - PictureViewer.exe
+C:\Users\2022102020084\Documents\2B INFORMATICA\Programação\4 Bimestre\1 - PictureViewer\1 - PictureViewer\obj\Debug\1 - PictureViewer.pdb
